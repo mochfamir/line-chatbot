@@ -1,0 +1,6 @@
+CHANNEL_TOKEN= // your line channel token
+CHANNEL_SECRET= // your line channel secret
+CHANNEL_ID= // your line channel id
+PROJECT_ID= // project id gcp
+GOOGLE_APPLICATION_CREDENTIALS= // creadential gcp
+WEATHER_KEY= // wheaterbit key token
